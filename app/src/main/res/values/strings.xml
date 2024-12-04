@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeWorkMVVM</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="app_logo">app Logo</string>
+    <string name="login">Login</string>
+    <string name="welcome_to_my_app">Hello There!\nWelcome to my App</string>
+    <string name="log_out">Log Out</string>
+</resources>
